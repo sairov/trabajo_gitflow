@@ -2,4 +2,8 @@
 
 ### Descripción del proyecto
 
-Este proyecto lo utilizamos para practicar el uso del estándar GITLOFW.
+Este proyecto lo utilizamos para practicar el uso del estándar GITFLOW.
+
+### Colaboradores
+
+- Sairov
